@@ -3,7 +3,7 @@
 </p>
 
 ````markdown
-# 🧭 Retail Sales Analysis – Power BI Project
+#  Retail Sales Analysis – Power BI Project
 
 ##  Project Overview
 This project demonstrates an end-to-end data analytics and dashboarding process using Power BI, Excel, SQL, and Python - focused on retail sales performance, profitability, and regional trends.
