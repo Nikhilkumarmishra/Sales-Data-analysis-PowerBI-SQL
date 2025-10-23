@@ -11,7 +11,7 @@ This project demonstrates an **end-to-end data analytics and dashboarding proces
 The dataset covers **3,000+ sales transactions across 2023–2024**, spanning multiple products, customers, cities, and channels.  
 The dashboard delivers business insights around revenue, orders, profit, customer segmentation, and regional performance — designed for **data-driven decision-making**.
 
----
+
 
 ##  Business Objective
 To analyze key sales and profit metrics that can:
@@ -20,7 +20,7 @@ To analyze key sales and profit metrics that can:
 - Evaluate customer segments and sales channels  
 - Enable leadership teams to make faster, data-backed strategic decisions  
 
----
+
 
 ##  Data Model & Architecture
 The project follows a **Star Schema** for clean and efficient analytics:
@@ -35,7 +35,7 @@ The project follows a **Star Schema** for clean and efficient analytics:
 
 >  *All data is clean, with no missing values and consistent keys.*
 
----
+
 
 ##  Key Measures (DAX)
 A few of the key calculated measures used:
