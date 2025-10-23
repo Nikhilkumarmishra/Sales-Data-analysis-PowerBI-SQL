@@ -6,10 +6,10 @@
 # 🧭 Retail Sales Analysis – Power BI Project
 
 ##  Project Overview
-This project demonstrates an **end-to-end data analytics and dashboarding process** using **Power BI, Excel, SQL, and Python** — focused on retail sales performance, profitability, and regional trends.
+This project demonstrates an end-to-end data analytics and dashboarding process using Power BI, Excel, SQL, and Python - focused on retail sales performance, profitability, and regional trends.
 
-The dataset covers **3,000+ sales transactions across 2023–2024**, spanning multiple products, customers, cities, and channels.  
-The dashboard delivers business insights around revenue, orders, profit, customer segmentation, and regional performance — designed for **data-driven decision-making**.
+The dataset covers 3,000+ sales transactions across 2023–2024, spanning multiple products, customers, cities, and channels.  
+The dashboard delivers business insights around revenue, orders, profit, customer segmentation, and regional performance — designed for data-driven decision-making.
 
 
 
@@ -23,17 +23,17 @@ To analyze key sales and profit metrics that can:
 
 
 ##  Data Model & Architecture
-The project follows a **Star Schema** for clean and efficient analytics:
+The project follows a Star Schema for clean and efficient analytics:
 
 | Table | Description |
 |-------|--------------|
-| **FactSales** | Contains transactional details like OrderDate, Quantity, UnitPrice, Discount, ShippingCost |
-| **DimProduct** | Includes ProductName, Category, Subcategory, Brand, and UnitCost |
-| **DimCustomer** | Contains CustomerID, CustomerName, and Segment |
-| **DimGeo** | Defines Country, Region, State, City, and coordinates for map visuals |
-| **DimDate** | Holds temporal hierarchy like Year, Month, Quarter, and Week |
+| FactSales | Contains transactional details like OrderDate, Quantity, UnitPrice, Discount, ShippingCost |
+| DimProduct | Includes ProductName, Category, Subcategory, Brand, and UnitCost |
+| DimCustomer | Contains CustomerID, CustomerName, and Segment |
+| DimGeo | Defines Country, Region, State, City, and coordinates for map visuals |
+| DimDate | Holds temporal hierarchy like Year, Month, Quarter, and Week |
 
->  *All data is clean, with no missing values and consistent keys.*
+>  All data is clean, with no missing values and consistent keys.
 
 
 
