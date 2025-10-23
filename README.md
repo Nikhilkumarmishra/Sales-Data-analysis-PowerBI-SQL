@@ -1,4 +1,6 @@
-<img width="1241" height="690" alt="image" src="https://github.com/user-attachments/assets/a231e525-8efd-4abf-aeec-f426ce55d41f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a231e525-8efd-4abf-aeec-f426ce55d41f" alt="Retail Dashboard Preview" width="60%">
+</p>
 
 ````markdown
 # 🧭 Retail Sales Analysis – Power BI Project
